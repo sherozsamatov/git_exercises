@@ -60,6 +60,11 @@ git diff
 > Самая большая проблема с программистами в том, что ты никогда не сможешь понять, чем он занимается, пока не будет слишком поздно.
 
 
-## Рисунки
+## Как добавить рисунок
 
-![Пример рисунка](https://res.cloudinary.com/practicaldev/image/fetch/s--9SbFb0NX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://www.cloudsavvyit.com/thumbcache/0/0/5b8ff1fbf94a3ecddbaa8db6b389c09a/p/uploads/2019/10/e713ed70-1.png)
+### Пример кода
+`![Название рисунка](https://google.com/image.jpg)`
+
+### Результат
+
+![Git image](https://www.cloudsavvyit.com/thumbcache/0/0/5b8ff1fbf94a3ecddbaa8db6b389c09a/p/uploads/2019/10/e713ed70-1.png)
