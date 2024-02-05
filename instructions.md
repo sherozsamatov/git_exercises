@@ -33,7 +33,7 @@ git log
 git log --oneline
 ```
 
-### Изменение бранча (HEAD):
+### Переход на предыдущее состояние или ветку:
 
 ```sh
 git checkout
@@ -44,6 +44,13 @@ git checkout
 ```sh
 git status
 ```
+
+### Просмотр актуальных или предыдущих изменений в рамках работы над репозиторием
+```sh
+git diff
+```
+
+
 ## Цитаты про программистов
 
 > Не волнуйся, если не работает. Если бы все всегда работало, у тебя бы не было работы.
@@ -53,3 +60,6 @@ git status
 > Самая большая проблема с программистами в том, что ты никогда не сможешь понять, чем он занимается, пока не будет слишком поздно.
 
 
+## Рисунки
+
+![Пример рисунка](https://res.cloudinary.com/practicaldev/image/fetch/s--9SbFb0NX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://www.cloudsavvyit.com/thumbcache/0/0/5b8ff1fbf94a3ecddbaa8db6b389c09a/p/uploads/2019/10/e713ed70-1.png)
