@@ -119,4 +119,4 @@ git checkout <название_ветки>
 
 ### Результат
 
-![Git image]([https://www.cloudsavvyit.com/thumbcache/0/0/5b8ff1fbf94a3ecddbaa8db6b389c09a/p/uploads/2019/10/e713ed70-1.png](https://www.freecodecamp.org/news/content/images/size/w2000/2021/09/maxresdefault-3.jpeg)https://www.freecodecamp.org/news/content/images/size/w2000/2021/09/maxresdefault-3.jpeg)
+![Git image](https://www.freecodecamp.org/news/content/images/size/w2000/2021/09/maxresdefault-3.jpeg)
